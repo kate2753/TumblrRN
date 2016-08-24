@@ -1,0 +1,3 @@
+rootProject.name = 'TumblrRN'
+
+include ':app'
